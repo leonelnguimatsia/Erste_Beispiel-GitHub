@@ -1,0 +1,1 @@
+Git init erstellt man ein eigenes lokal Repository.
