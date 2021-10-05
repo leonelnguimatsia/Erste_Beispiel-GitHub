@@ -1,1 +1,2 @@
 Git init erstellt man ein eigenes lokal Repository.
+Ich habe eine zweite Zeile geschrieben!!!
